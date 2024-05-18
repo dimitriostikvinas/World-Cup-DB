@@ -1,1 +1,1 @@
-# WorldCup-Database
+# World Cup Database
